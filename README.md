@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BaskarAntonyPetlees
 - 👀 I’m interested in learning about python, power-bi, mysql
 - 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate with pursuing students, working person to learn more about Data Analytics
+- 💞️ I’m looking to collaborate with pursuing students, working professional to learn more about Data Analytics
 - 📫 How to reach me ... basakrantonypetlees@gmail.com
 - ⚡ Fun fact: Keep Learning. 
 
